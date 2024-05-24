@@ -1,1 +1,1 @@
-* Added a config option that makes structure locating asynchonous
+* Fix enchantments being removed upon setting a structure
